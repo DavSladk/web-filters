@@ -30,6 +30,9 @@ youtube.com##ytd-reel-shelf-renderer.ytd-structured-description-content-renderer
 ! Remove empty spaces in grid
 youtube.com##ytd-rich-grid-row,#contents.ytd-rich-grid-row:style(display: contents !important)
 
+! new stuff to cull
+youtube.com##grid-shelf-view-model
+
 ! Reddit
 reddit.com##flex-left-nav-container
 
